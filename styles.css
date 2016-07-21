@@ -1,0 +1,98 @@
+body {
+	overflow-x:hidden;
+	font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+.text-muted {
+	color:#777
+}
+
+hr {
+	height: 4px;
+}
+
+
+#over img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.dropdown-menu {
+	background-color: transparent;
+}
+
+.dropdown {
+	background-color: transparent;
+}
+
+.logo1 {
+	font-family: 'Poiret One', cursive; 
+	font-size: 60px;
+}
+
+#mobile2 {
+	font-size: 3em;
+}
+
+#mobile3 {
+	font-size: 5em;
+}
+
+.mobile4 {
+	font-style: italic; 
+	font-size: 18px; 
+	padding-right: 10px;
+	    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#mobile5 {
+	font-size: 24px;
+}
+
+#mobile6 {
+	font-size: 24px; text-decoration: normal;
+}
+
+.get-info {
+	font-size: 30px;
+	font-family: 'Poiret One', cursive;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+#mobile-list {
+	text-align: left;
+                    font-size: 30px;
+                    padding-left: 60px;
+                    font-family: "Poiret One";"
+}
+
+.kate1 {
+	font-size: 18px;
+	    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+#dogwalking {
+	background-image: url(../img/cover5.png);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment:scroll;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	text-align:center;
+}
+
+
+#getstarted {
+	background-image: url(../img/park.jpg);
+	background-repeat: none;
+	background-size: cover;
+	background-attachment:scroll;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	text-align:center;
+}
